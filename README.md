@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Xiaosong Zhang | 张小松
+- 🤔[homepage](https://zhangxiaosong18.github.io)
+- 🔭[google scholar](https://scholar.google.com/citations?user=98exn6wAAAAJ&hl=en)
+- 📫[xszhang@baai.ac.cn](mailto:xszhang@baai.ac.cn)
 <!--
 **zhangxiaosong18/zhangxiaosong18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
